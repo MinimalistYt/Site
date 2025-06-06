@@ -78,7 +78,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 144px;
+  left: 870px;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
@@ -92,7 +92,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 572px;
+  left: 1752px;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
@@ -166,7 +166,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 142px;
+  left: 870px;
   overflow: hidden;
 }
 .v2_12 {
@@ -210,7 +210,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 3px;
-  left: 572px;
+  left: 1750px;
   overflow: hidden;
 }
 .v2_20 {
@@ -275,7 +275,7 @@ body {
   color: rgba(255,0,0,1);
   position: relative;
   top: 0px;
-  left: 0px;
+  left: 50px;
   font-family: JejuHallasan;
   font-weight: Regular;
   font-size: 96px;
@@ -287,7 +287,7 @@ body {
   color: rgba(255,0,0,1);
   position: absolute;
   top: 0px;
-  left: 93px;
+  left: 875px;
   font-family: JejuHallasan;
   font-weight: Regular;
   font-size: 96px;
@@ -299,7 +299,7 @@ body {
   color: rgba(255,0,0,1);
   position: absolute;
   top: 0px;
-  left: 832px;
+  left: 1800px;
   font-family: JejuHallasan;
   font-weight: Regular;
   font-size: 96px;
@@ -353,7 +353,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 44px;
+  left: 865px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -367,7 +367,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 2px;
-  left: 663px;
+  left: 1750px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -404,7 +404,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 3px;
-  left: 197px;
+  left: 850px;
   font-family: Jaldi;
   font-weight: Regular;
   font-size: 64px;
@@ -416,7 +416,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 0px;
-  left: 933px;
+  left: 1750px;
   font-family: Jaldi;
   font-weight: Regular;
   font-size: 64px;
@@ -481,7 +481,7 @@ body {
   color: rgba(250,16,16,1);
   position: absolute;
   top: 153px;
-  left: 218px;
+  left: 675px;
   font-family: JejuHallasan;
   font-weight: Regular;
   font-size: 128px;
@@ -602,7 +602,7 @@ body {
   opacity: 1;
   position: relative;
   top: 0px;
-  left: 0px;
+  left: 150px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -616,7 +616,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 440px;
+  left: 700px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -630,7 +630,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 899px;
+  left: 1200px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -655,7 +655,7 @@ body {
   color: rgba(0,0,0,1);
   position: relative;
   top: 0px;
-  left: 0px;
+  left: 300px;
   font-family: Jost;
   font-weight: Regular;
   font-size: 50px;
@@ -667,7 +667,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 0px;
-  left: 490px;
+  left: 825px;
   font-family: Jost;
   font-weight: Regular;
   font-size: 50px;
@@ -679,7 +679,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 0px;
-  left: 980px;
+  left: 1400px;
   font-family: Jost;
   font-weight: Regular;
   font-size: 50px;
